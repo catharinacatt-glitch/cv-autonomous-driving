@@ -1,0 +1,21 @@
+# 데이터셋 (용량 큼, 올리면 안 됨)
+**/datasets/
+**/training/
+**/data/
+
+# 모델 가중치
+*.pt
+*.pth
+
+# 학습 결과
+**/runs/
+
+# clone한 외부 repo
+**/yolov5/
+
+# 캐시/시스템 파일
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+venv/
+*.egg-info/
