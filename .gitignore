@@ -19,3 +19,5 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 *.egg-info/
+*.xlsx
+**/data_object_image_2/
